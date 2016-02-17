@@ -15,4 +15,4 @@ twitter_username: g3dut1s
 github_username:  lukosius
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
