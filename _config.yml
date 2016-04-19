@@ -7,11 +7,11 @@
 
 # Site settings
 title: Gedas Lukošius
-email: g3dut1s@gmail.com
+email: gedas@lukosius.me
 description: Website of Gedas Lukošius
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lukosius.me" # the base hostname & protocol for your site
-twitter_username: g3dut1s
+twitter_username: lukosiusg
 github_username:  lukosius
 
 # Build settings
